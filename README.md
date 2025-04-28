@@ -31,15 +31,15 @@ This project implements a handwritten digit recognition system using the MNIST d
 
 ------
 📊 Key Features
-. Model training with different architectures
+- Model training with different architectures
 
-. Evaluation using accuracy, loss curves
+- Evaluation using accuracy, loss curves
 
-. Data Augmentation (zoom, horizontal flip)
+- Data Augmentation (zoom, horizontal flip)
 
-. Dropout for regularization
+- Dropout for regularization
 
-.Autoencoder for reconstructing high-resolution images from low-resolution input
+
 ---
 
 
