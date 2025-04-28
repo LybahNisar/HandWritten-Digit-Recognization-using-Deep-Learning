@@ -40,16 +40,16 @@ git clone https://github.com/yourusername/handwritten-digit-recognition.git
 cd handwritten-digit-recognition
 
 ------
-## 📊 Key Features
+📊 Key Features
+. Model training with different architectures
 
-- Model training with different architectures (Dense Networks, CNNs)
-- Evaluation using accuracy and loss curves
-- Data Augmentation techniques:
-  - Zoom transformations
-  - Horizontal flipping
-- Dropout for regularization to prevent overfitting
-- Autoencoder for reconstructing high-resolution images from low-resolution inputs
+. Evaluation using accuracy, loss curves
 
+. Data Augmentation (zoom, horizontal flip)
+
+. Dropout for regularization
+
+.Autoencoder for reconstructing high-resolution images from low-resolution input
 ---
 
 
