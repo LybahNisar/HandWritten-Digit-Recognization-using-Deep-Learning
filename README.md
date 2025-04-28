@@ -29,16 +29,6 @@ This project implements a handwritten digit recognition system using the MNIST d
 ---
 
 
----
-
-## 🚀 How to Run
-
-1. Clone the repository:
-
-```bash
-git clone https://github.com/yourusername/handwritten-digit-recognition.git
-cd handwritten-digit-recognition
-
 ------
 📊 Key Features
 . Model training with different architectures
