@@ -39,6 +39,7 @@ This project implements a handwritten digit recognition system using the MNIST d
 git clone https://github.com/yourusername/handwritten-digit-recognition.git
 cd handwritten-digit-recognition
 
+------
 ## 📊 Key Features
 
 - Model training with different architectures (Dense Networks, CNNs)
@@ -50,13 +51,6 @@ cd handwritten-digit-recognition
 - Autoencoder for reconstructing high-resolution images from low-resolution inputs
 
 ---
-
-## 📸 Sample Outputs
-
-- Training and Validation **Accuracy** plots
-- Training and Validation **Loss** plots
-- **Augmented Images** (Zoomed and Horizontally Flipped)
-- **Reconstructed Images** using Autoencoders
 
 
 
